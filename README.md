@@ -1,1 +1,2 @@
-# Mern_stack_assignment_2
+# VIT-MERN_Assignments
+https://manan-s85.github.io/VIT-MERN_Internship_Assignments/
